@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjakhmedov
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS Basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanjakhmedov@gmail.com
