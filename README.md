@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanjakhmedov
-- 👀 I’m interested in Web Development
+- 👀 Interested in Developing
 - 🌱 I’m currently learning Java Basics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanjakhmedov@gmail.com
 
 <!---
